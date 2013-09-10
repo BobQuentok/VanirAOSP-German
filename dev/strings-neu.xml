@@ -16,347 +16,347 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Strings for Dialog yes button -->
-    <string name="yes">"Yes"</string>
+    <string name="yes">"Ja"</string>
 
     <!-- Strings for Dialog no button -->
-    <string name="no">"No"</string>
+    <string name="no">"Nein"</string>
 
     <!-- Strings for Dialog create button -->
-    <string name="create">Create</string>
+    <string name="create">"Erstellen"</string>
 
     <!-- Strings for Dialog allow button -->
-    <string name="allow">Allow</string>
+    <string name="allow">"Zulassen"</string>
 
     <!-- Strings for Dialog deny button -->
-    <string name="deny">Deny</string>
+    <string name="deny">"Ablehnen"</string>
 
     <!-- Device Info --> <skip />
     <!-- Device Info screen. Used for a status item's value when the proper value is not known -->
-    <string name="device_info_default">Unknown</string>
+    <string name="device_info_default">"Unbekannt"</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Countdown for user taps to enable development settings -->
     <plurals name="show_dev_countdown">
-        <item quantity="one">You are now <xliff:g id="step_count">%1$d</xliff:g> step away from enabling development settings.</item>
-        <item quantity="other">You are now <xliff:g id="step_count">%1$d</xliff:g> steps away from enabling development settings.</item>
+        <item quantity="one">"In <xliff:g id="STEP_COUNT">%1$d</xliff:g> Schritt sind Sie ein Entwickler."</item>
+        <item quantity="other">"In <xliff:g id="STEP_COUNT">%1$d</xliff:g> Schritten sind Sie ein Entwickler."</item>
     </plurals>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Confirmation that developer settings are enabled -->
-    <string name="show_dev_on">You have enabled development settings!</string>
+    <string name="show_dev_on">"Sie sind jetzt ein Entwickler!"</string>
     <!-- [CHAR LIMIT=NONE] Device Info screen. Okay we get it, stop pressing, you already have it on -->
-    <string name="show_dev_already">Quit poking me!</string>
+    <string name="show_dev_already">"Okay, sind Sie bereits ein Entwickler."</string>
 
     <!-- Category headings in left-pane header menu --> <skip />
     <!-- Settings main menu category heading. Wireless and networks (Wi-Fi, Bluetooth, data usage...). [CHAR LIMIT=40] -->
-    <string name="header_category_wireless_networks">WIRELESS &amp; NETWORKS</string>
+    <string name="header_category_wireless_networks">"Drahtlos &amp; Netzwerke"</string>
     <!-- Settings main menu category heading. Device (Sound, display, battery, applications...). [CHAR LIMIT=40] -->
-    <string name="header_category_device">DEVICE</string>
+    <string name="header_category_device">"Gerät"</string>
     <!-- Settings main menu category heading. Personal (Accounts, security, language, backup...). [CHAR LIMIT=40] -->
-    <string name="header_category_personal">PERSONAL</string>
+    <string name="header_category_personal">"Nutzer"</string>
     <!-- Settings main menu category heading. System (Updates, data, accessibility, about phone). [CHAR LIMIT=40] -->
-    <string name="header_category_system">SYSTEM</string>
+    <string name="header_category_system">"SYSTEM"</string>
 
     <!-- Phone info -->
     <!-- Phone Info screen. Button label to turn on the radio . Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="turn_on_radio">Turn on radio</string>
+    <string name="turn_on_radio">"Mobilfunkverbindung aktivieren"</string>
     <!-- Phone Info screen. Button label to turn off the radio . Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="turn_off_radio">Turn off radio</string>
+    <string name="turn_off_radio">"Mobilfunkverbindung deaktivieren"</string>
 
     <!-- Phone SMS over IMS on. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="sms_over_ims_on">Turn on SMS over IMS</string>
+    <string name="sms_over_ims_on">"SMS über IMS aktivieren"</string>
     <!-- Phone SMS over IMS off. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="sms_over_ims_off">Turn off SMS over IMS</string>
+    <string name="sms_over_ims_off">"SMS über IMS deaktivieren"</string>
 
     <!-- Phone SMS over IMS IMS registration required on. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="ims_reg_required_on">Turn on IMS registration required</string>
+    <string name="ims_reg_required_on">"Die IMS-Registrierung muss aktiviert werden."</string>
     <!-- Phone IMS registration required off. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="ims_reg_required_off">Turn off IMS registration required</string>
+    <string name="ims_reg_required_off">"Die IMS-Registrierung muss deaktiviert werden."</string>
 
     <!-- Phone ram dump on. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="lte_ram_dump_on">Turn on lte ram dump</string>
+    <string name="lte_ram_dump_on">"LTE-RAM-Dump aktivieren"</string>
     <!-- Phone ram dump off. Only shown in diagnostic screen, so precise translation is not needed. -->
-    <string name="lte_ram_dump_off">Turn off lte ram dump</string>
+    <string name="lte_ram_dump_off">"LTE-RAM-Dump deaktivieren"</string>
 
     <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_menu_viewADN">View SIM address book</string>
+    <string name="radioInfo_menu_viewADN">"SIM-Adressbuch anzeigen"</string>
     <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_menu_viewFDN">View Fixed Dialing Numbers</string>
+    <string name="radioInfo_menu_viewFDN">"Zugelassene Rufnummern anzeigen"</string>
     <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_menu_viewSDN">View Service Dialing Numbers</string>
+    <string name="radioInfo_menu_viewSDN">"Servicerufnummern anzeigen"</string>
     <!-- Phone Info screen. Menu item label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_menu_getPDP">Get PDP list</string>
+    <string name="radioInfo_menu_getPDP">"PDP-Liste abrufen"</string>
 
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_service_in">In service</string>
+    <string name="radioInfo_service_in">"In Betrieb"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_service_out">Out of service</string>
+    <string name="radioInfo_service_out">"Außer Betrieb"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_service_emergency">Emergency calls only</string>
+    <string name="radioInfo_service_emergency">"Nur Notrufe"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_service_off">Radio off</string>
+    <string name="radioInfo_service_off">"Mobilfunkverbindung aus"</string>
 
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_roaming_in">Roaming</string>
+    <string name="radioInfo_roaming_in">"Roaming"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_roaming_not">Not roaming</string>
+    <string name="radioInfo_roaming_not">"Kein Roaming"</string>
 
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_phone_idle">Idle</string>
+    <string name="radioInfo_phone_idle">"Ruhezustand"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_phone_ringing">Ringing</string>
+    <string name="radioInfo_phone_ringing">"Klingelton"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_phone_offhook">Call in progress</string>
+    <string name="radioInfo_phone_offhook">"Anruf wird getätigt"</string>
 
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_data_disconnected">Disconnected</string>
+    <string name="radioInfo_data_disconnected">"Nicht verbunden"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_data_connecting">Connecting</string>
+    <string name="radioInfo_data_connecting">"Verbindung wird hergestellt"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_data_connected">Connected</string>
+    <string name="radioInfo_data_connected">"Verbunden"</string>
     <!-- Phone Info screen. Status label.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_data_suspended">Suspended</string>
+    <string name="radioInfo_data_suspended">"Angehalten"</string>
 
     <!-- Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_unknown">unknown</string>
+    <string name="radioInfo_unknown">"unbekannt"</string>
     <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_display_packets">"Pakete"</string>
     <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_display_bytes">bytes</string>
+    <string name="radioInfo_display_bytes">"Bytes"</string>
     <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_display_dbm">dBm</string>
+    <string name="radioInfo_display_dbm">"dBm"</string>
     <!-- Phone Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_display_asu">asu</string>
+    <string name="radioInfo_display_asu">"ASU"</string>
     <!-- Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_lac">LAC</string>
+    <string name="radioInfo_lac">"LAC"</string>
     <!-- Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radioInfo_cid">CID</string>
+    <string name="radioInfo_cid">"CID"</string>
 
     <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer  [CHAR LIMIT=25] -->
-    <string name="sdcard_unmount" product="nosdcard">Unmount USB storage</string>
+    <string name="sdcard_unmount" product="nosdcard">"USB-Speicher trennen"</string>
     <!-- Used for diagnostic info screens, precise translation isn't needed. Unmounts the SD card from the phone, meaning it will become available for an attached computer -->
-    <string name="sdcard_unmount" product="default">Unmount SD card</string>
+    <string name="sdcard_unmount" product="default">"SD-Karte entnehmen"</string>
 
     <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted [CHAR LIMIT=25] -->
-    <string name="sdcard_format" product="nosdcard">Erase USB storage</string>
+    <string name="sdcard_format" product="nosdcard">"USB-Speicher löschen"</string>
     <!-- Used for diagnostic info screens, precise translation isn't needed. Formats the SD card in the phone, meaning it will be erased and reformatted -->
-    <string name="sdcard_format" product="default">Erase SD card</string>
+    <string name="sdcard_format" product="default">"SD-Karte löschen"</string>
 
     <!-- choice for the font size spinner -->
-    <string name="small_font">Small</string>
+    <string name="small_font">"Klein"</string>
     <!-- choice for the font size spinner -->
-    <string name="medium_font">Medium</string>
+    <string name="medium_font">"Mittel"</string>
     <!-- choice for the font size spinner -->
-    <string name="large_font">Large</string>
+    <string name="large_font">Groß</string>
 
     <!-- Do not translate. label for font size preview.  Does not need to be translated. -->
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
     <!-- Button. Chosen when they want to save the chosen text size. -->
-    <string name="font_size_save">OK</string>
+    <string name="font_size_save">"OK"</string>
 
     <!-- Title for a notification shown. [CHAR LIMIT=25] -->
-    <string name="sdcard_setting" product="nosdcard">USB storage</string>
+    <string name="sdcard_setting" product="nosdcard">"USB-Speicher"</string>
     <!-- Title for a notification shown. -->
-    <string name="sdcard_setting" product="default">SD card</string>
+    <string name="sdcard_setting" product="default">"SD-Karte"</string>
 
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_label">Battery status:</string>
+    <string name="battery_info_status_label">"Akkustatus:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_power_label">Power plug:</string>
+    <string name="battery_info_power_label">"Stromanschluss:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_scale_label">Battery scale:</string>
+    <string name="battery_info_scale_label">"Akkuanzeige:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_level_label">Battery level:</string>
+    <string name="battery_info_level_label">"Akkuladung:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_label">Battery health:</string>
+    <string name="battery_info_health_label">"Akkuzustand:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_technology_label">Battery technology:</string>
+    <string name="battery_info_technology_label">"Akkutechnologie:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_voltage_label">Battery voltage:</string>
+    <string name="battery_info_voltage_label">"Akkuspannung:"</string>
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_voltage_units">mV</string>
+    <string name="battery_info_voltage_units">"mV"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_temperature_label">Battery temperature:</string>
+    <string name="battery_info_temperature_label">"Akkutemperatur:"</string>
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_temperature_units">\u00B0 C</string>
+    <string name="battery_info_temperature_units">"°C"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_uptime">Time since boot:</string>
+    <string name="battery_info_uptime">"Zeit seit Start:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_awake_battery">Awake time on battery:</string>
+    <string name="battery_info_awake_battery">"Aktivzeit bei Akku:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_awake_plugged">Awake time when charging:</string>
+    <string name="battery_info_awake_plugged">"Aktivzeit beim Laden:"</string>
     <!-- Battery Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_screen_on">Screen ON time:</string>
+    <string name="battery_info_screen_on">"Display eingeschaltet:"</string>
 
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_unknown">Unknown</string>
+    <string name="battery_info_status_unknown">"Unbekannt"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_charging">Charging</string>
+    <string name="battery_info_status_charging">"Wird geladen"</string>
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_charging_ac">(AC)</string>
+    <string name="battery_info_status_charging_ac">"(AC)"</string>
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_charging_usb">(USB)</string>
+    <string name="battery_info_status_charging_usb">"(USB)"</string>
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_charging_wireless">(wireless)</string>
+    <string name="battery_info_status_charging_wireless">"(drahtlos)"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_discharging">Not charging</string>
+    <string name="battery_info_status_discharging">"Wird nicht geladen"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_not_charging">Not charging</string>
+    <string name="battery_info_status_not_charging">"Wird nicht geladen"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_status_full">Full</string>
+    <string name="battery_info_status_full">"Voll"</string>
 
     <!-- Battery Info screen. Units shown after a value.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_power_unplugged">Unplugged</string>
-    <string name="battery_info_power_ac">AC</string>
-    <string name="battery_info_power_usb">USB</string>
-    <string name="battery_info_power_wireless">wireless</string>
-    <string name="battery_info_power_ac_usb">AC+USB</string>
-    <string name="battery_info_power_unknown">Unknown</string>
+    <string name="battery_info_power_unplugged">"Nicht angeschlossen"</string>
+    <string name="battery_info_power_ac">"AC"</string>
+    <string name="battery_info_power_usb">"USB"</string>
+    <string name="battery_info_power_wireless">"drahtlos"</string>
+    <string name="battery_info_power_ac_usb">"AC+USB"</string>
+    <string name="battery_info_power_unknown">"Unbekannt"</string>
 
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_unknown">Unknown</string>
+    <string name="battery_info_health_unknown">"Unbekannt"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_good">Good</string>
+    <string name="battery_info_health_good">"Okay"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_overheat">Overheat</string>
+    <string name="battery_info_health_overheat">"Überhitzung"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_dead">Dead</string>
+    <string name="battery_info_health_dead">"Leer"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_over_voltage">Over voltage</string>
+    <string name="battery_info_health_over_voltage">"Überspannung"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_unspecified_failure">Unknown error</string>
+    <string name="battery_info_health_unspecified_failure">"Unbekannter Fehler"</string>
     <!-- Battery Info screen. Value for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="battery_info_health_cold">Cold</string>
+    <string name="battery_info_health_cold">"Kalt"</string>
 
     <!-- Used as setting title (for checkbox) on second screen after selecting Bluetooth settings -->
-    <string name="bluetooth">Bluetooth</string>
+    <string name="bluetooth">"Bluetooth"</string>
     <!-- Bluetooth settings screen, summary after selecting Discoverable check box [CHAR LIMIT=50] -->
-    <string name="bluetooth_is_discoverable">Visible to all nearby Bluetooth devices (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)</string>
+    <string name="bluetooth_is_discoverable">"Sichtbar für alle Bluetooth-Geräte in der Nähe (<xliff:g id="discoverable_time_period">%1$s</xliff:g>)</string>
     <!-- Bluetooth settings screen, summary when Discoverable duration is set to "forever" [CHAR LIMIT=50] -->
-    <string name="bluetooth_is_discoverable_always">Visible to all nearby Bluetooth devices</string>
+    <string name="bluetooth_is_discoverable_always">"Sichtbar für alle Bluetooth-Geräte in der Nähe"</string>
     <!-- Bluetooth settings screen, summary text when not discoverable and no paired devices [CHAR LIMIT=50] -->
-    <string name="bluetooth_not_visible_to_other_devices">Not visible to other Bluetooth devices</string>
+    <string name="bluetooth_not_visible_to_other_devices">"Nicht sichtbar für andere Bluetooth-Geräte"</string>
     <!-- Bluetooth settings screen, summary text when not discoverable with paired devices [CHAR LIMIT=50] -->
-    <string name="bluetooth_only_visible_to_paired_devices">Only visible to paired devices</string>
+    <string name="bluetooth_only_visible_to_paired_devices">"Nur sichtbar für Partnergeräte"</string>
     <!-- Bluetooth settings screen, option name to pick discoverability timeout duration (a list dialog comes up) -->
-    <string name="bluetooth_visibility_timeout">Visibility timeout</string>
+    <string name="bluetooth_visibility_timeout">Timeout für Sichtbarkeit</string>
     <!-- Bluetooth settings screen, Discoverable timeout list dialog summary text -->
     <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
     <!-- Bluetooth settings screen, check box label whether or not to allow bluetooth voice dialing when lock screen is up-->
-    <string name="bluetooth_lock_voice_dialing">Lock voice dialing</string>
+    <string name="bluetooth_lock_voice_dialing">"Sprachwahl sperren"</string>
     <!-- Bluetooth settings screen, lock voice dialing checkbox summary text -->
-    <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the bluetooth dialer when the screen is locked</string>
+    <string name="bluetooth_lock_voice_dialing_summary">"Verwendung des Bluetooth-Dialers bei gesperrtem Bildschirm verhindern"</string>
     <!-- Bluetooth settings screen, heading above the list of nearby bluetooth devices -->
-    <string name="bluetooth_devices">Bluetooth devices</string>
+    <string name="bluetooth_devices">"Bluetooth-Geräte"</string>
     <!-- Bluetooth settings screen, title for the current bluetooth name setting -->
-    <string name="bluetooth_device_name">Device name</string>
+    <string name="bluetooth_device_name">"Gerätename"</string>
     <!-- Bluetooth settings screen, image description for device details button. This opens the screen to rename, unpair, etc. a single device. -->
-    <string name="bluetooth_device_details">Device settings</string>
+    <string name="bluetooth_device_details">"Geräteeinstellungen"</string>
     <!-- Bluetooth settings screen, image description for profile of a device details button. -->
-    <string name="bluetooth_profile_details">Profile settings</string>
+    <string name="bluetooth_profile_details">"Profileinstellungen"</string>
     <!-- Bluetooth settings screen, summary text when there isn't a name set (for the name setting) -->
-    <string name="bluetooth_name_not_set">No name set, using account name</string>
+    <string name="bluetooth_name_not_set">"Kein Name festgelegt, Kontoname wird verwendet"</string>
     <!-- Bluetooth settings screen, menu item to scan for nearby bluetooth devices -->
-    <string name="bluetooth_scan_for_devices">Scan for devices</string>
+    <string name="bluetooth_scan_for_devices">"Scannen nach Geräten"</string>
     <!-- Bluetooth settings screen, menu item to change this device's Bluetooth name. [CHAR LIMIT=30] -->
-    <string name="bluetooth_rename_device" product="tablet">Rename tablet</string>
+    <string name="bluetooth_rename_device" product="tablet">"Tablet umbenennen"</string>
     <!-- Bluetooth settings screen, menu item to change this device's Bluetooth name. [CHAR LIMIT=30] -->
-    <string name="bluetooth_rename_device" product="default">Rename phone</string>
+    <string name="bluetooth_rename_device" product="default">"Telefon umbenennen"</string>
     <!-- Bluetooth settings screen, confirmation button for rename device dialog. [CHAR LIMIT=20] -->
-    <string name="bluetooth_rename_button">Rename</string>
+    <string name="bluetooth_rename_button">"Umbenennen"</string>
     <!-- Bluetooth settings.  Dialog title to confirm disconnecting from all profiles of a device. [CHAR LIMIT=30] -->
-    <string name="bluetooth_disconnect_title">Disconnect?</string>
+    <string name="bluetooth_disconnect_title">"Verbindung trennen?"</string>
     <!-- Bluetooth settings.  Message for disconnecting from all profiles of a bluetooth device. [CHAR LIMIT=NONE] -->
-    <string name="bluetooth_disconnect_all_profiles">This will end your connection with:&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">"Hierdurch wird die Verbindung mit&lt;br>&lt;b><xliff:g id="device_name">%1$s</xliff:g>&lt;/b></string>
     <!-- Bluetooth settings.  Dialog title to disable a single profile of a device. [CHAR LIMIT=40] -->
-    <string name="bluetooth_disable_profile_title">Disable profile?</string>
+    <string name="bluetooth_disable_profile_title">"Profil deaktivieren?"</string>
     <!-- Bluetooth settings.  Message for disabling a profile of a bluetooth device. [CHAR LIMIT=NONE] -->
-    <string name="bluetooth_disable_profile_message">This will disable:&lt;br>&lt;b><xliff:g id="profile_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b><xliff:g id="device_name">%2$s</xliff:g>&lt;/b></string>
+    <string name="bluetooth_disable_profile_message">"Deaktiviert:&lt;br>&lt;b><xliff:g id="profile_name">%1$s</xliff:g>&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b><xliff:g id="device_name">%2$s</xliff:g>&lt;/b></string>
     <!-- Bluetooth settings.  Message when connected to a device. [CHAR LIMIT=40] -->
-    <string name="bluetooth_connected">Connected</string>
+    <string name="bluetooth_connected">"Verbunden"</string>
     <!-- Bluetooth settings.  Message when connected to a device, except for phone audio. [CHAR LIMIT=40] -->
-    <string name="bluetooth_connected_no_headset">Connected (no phone)</string>
+    <string name="bluetooth_connected_no_headset">"Verbunden (kein Telefon)"</string>
     <!-- Bluetooth settings.  Message when connected to a device, except for media audio. [CHAR LIMIT=40] -->
-    <string name="bluetooth_connected_no_a2dp">Connected (no media)</string>
+    <string name="bluetooth_connected_no_a2dp">"Verbunden (außer Audiomedien)"</string>
     <!-- Bluetooth settings.  Message when connected to a device, except for phone/media audio. [CHAR LIMIT=40] -->
-    <string name="bluetooth_connected_no_headset_no_a2dp">Connected (no phone or media)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">"Verbunden (außer Telefon- und Audiomedien)"</string>
     <!-- Bluetooth settings.  Message when a device is disconnected -->
-    <string name="bluetooth_disconnected">Disconnected</string>
+    <string name="bluetooth_disconnected">"Nicht verbunden"</string>
     <!-- Bluetooth settings.  Message when disconnecting from a device -->
-    <string name="bluetooth_disconnecting">Disconnecting\u2026</string>
+    <string name="bluetooth_disconnecting">"Verbindung wird getrennt..."</string>
     <!-- Bluetooth settings.  Message when connecting to a device -->
-    <string name="bluetooth_connecting">Connecting\u2026</string>
+    <string name="bluetooth_connecting">"Verbindung wird hergestellt..."</string>
     <!-- Bluetooth settings.  Message when the device state is unknown -->
-    <string name="bluetooth_unknown" />
+    <string name="bluetooth_unknown"></string>
     <!-- Bluetooth settings screen, summary text under individual Bluetooth devices when pairing -->
-    <string name="bluetooth_pairing">Pairing\u2026</string>
+    <string name="bluetooth_pairing">"Pairing…"</string>
     <!-- Bluetooth settings screen, summary text for Bluetooth device with no name -->
-    <string name="bluetooth_device">Unnamed Bluetooth device</string>
+    <string name="bluetooth_device">"Unbenanntes Bluetooth-Gerät"</string>
     <!-- Bluetooth settings screen, text that appears in heading bar when scanning for devices -->
-    <string name="progress_scanning">Searching</string>
+    <string name="progress_scanning">"Suche läuft"</string>
     <!-- Bluetooth settings screen, text that appears when scanning for devices is finished and no nearby bluetooth device was found [CHAR LIMIT=40]-->
-    <string name="bluetooth_no_devices_found">No nearby Bluetooth devices were found.</string>
+    <string name="bluetooth_no_devices_found">"Kein Bluetooth-Gerät in der Nähe gefunden"</string>
     <!-- Notification ticker text (shown in the status bar) when a Bluetooth device wants to pair with us -->
-    <string name="bluetooth_notif_ticker">Bluetooth pairing request</string>
+    <string name="bluetooth_notif_ticker">"Bluetooth-Pairing-Anfrage"</string>
     <!-- Notification title when a Bluetooth device wants to pair with us -->
-    <string name="bluetooth_notif_title">Pairing request</string>
+    <string name="bluetooth_notif_title">"Pairing-Anfrage"</string>
     <!-- Notification message when a Bluetooth device wants to pair with us -->
-    <string name="bluetooth_notif_message">Touch to pair with <xliff:g id="device_name">%1$s</xliff:g>.</string>
+    <string name="bluetooth_notif_message">"Für Pairing mit <xliff:g id="device_name">%1$s</xliff:g>.</string>
     <!-- Bluetooth settings screen, menu to show the list of received files [CHAR LIMIT=30] -->
-    <string name="bluetooth_show_received_files">Show received files</string>
+    <string name="bluetooth_show_received_files">"Erhaltene Dateien anzeigen"</string>
 
     <!-- Strings for BluetoothDevicePicker -->
-    <string name="device_picker">Bluetooth device chooser</string>
+    <string name="device_picker">"Bluetooth-Geräteauswahl"</string>
 
     <!-- Strings for dialog title when asking to the user whether to allow an app to enable discovery mode -->
-    <string name="bluetooth_permission_request">"Bluetooth permission request"</string>
+    <string name="bluetooth_permission_request">"Bluetooth-Berechtigungsanfrage"</string>
 
     <!-- Strings for asking to the user whether to allow an app to enable bluetooth -->
-    <string name="bluetooth_ask_enablement">An app wants to turn on Bluetooth.</string>
+    <string name="bluetooth_ask_enablement">"Eine App versucht, Bluetooth zu aktivieren."</string>
 
     <!-- Strings for asking to the user whether to allow an app to enable discovery mode -->
-    <string name="bluetooth_ask_discovery" product="tablet">An app wants to make your tablet visible to other Bluetooth devices for <xliff:g id="timeout">%1$d</xliff:g> seconds.</string>
+    <string name="bluetooth_ask_discovery" product="tablet">"Eine App versucht, Ihr Tablet für <xliff:g id="timeout">%1$d</xliff:g> Sekunden für andere Bluetooth-Geräte sichtbar zu machen."</string>
     <!-- Strings for asking to the user whether to allow an app to enable discovery mode -->
-    <string name="bluetooth_ask_discovery" product="default">An app wants to make your phone visible to other Bluetooth devices for <xliff:g id="timeout">%1$d</xliff:g> seconds.</string>
+    <string name="bluetooth_ask_discovery" product="default">"Eine App versucht, Ihr Telefon für <xliff:g id="timeout">%1$d</xliff:g> Sekunden für andere Bluetooth-Geräte sichtbar zu machen."</string>
 
     <!-- Strings for asking to the user whether to allow an app to enable lasting discovery mode -->
-    <string name="bluetooth_ask_lasting_discovery" product="tablet">An app wants to make your tablet visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
-    <string name="bluetooth_ask_lasting_discovery" product="default">An app wants to make your phone visible to other Bluetooth devices. You can change this later in Bluetooth settings.</string>
+    <string name="bluetooth_ask_lasting_discovery" product="tablet">"Eine App versucht, Ihr Tablet für andere Bluetooth-Geräte sichtbar zu machen. Sie können diese Einstellung später in den Bluetooth-Einstellungen ändern."</string>
+    <string name="bluetooth_ask_lasting_discovery" product="default">"Eine App versucht, Ihr Telefon für andere Bluetooth-Geräte sichtbar zu machen. Sie können diese Einstellung später in den Bluetooth-Einstellungen ändern."</string>
 
     <!-- Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode -->
-    <string name="bluetooth_ask_enablement_and_discovery" product="tablet">An app wants to turn on Bluetooth and make your tablet visible to other devices for <xliff:g id="timeout">%1$d</xliff:g> seconds.</string>
+    <string name="bluetooth_ask_enablement_and_discovery" product="tablet">"Eine App versucht, Bluetooth zu aktivieren und Ihr Tablet für <xliff:g id="timeout">%1$d</xliff:g> Sekunden für andere Geräte sichtbar zu machen."</string>
     <!-- Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode -->
-    <string name="bluetooth_ask_enablement_and_discovery" product="default">An app wants to turn on Bluetooth and make your phone visible to other devices for <xliff:g id="timeout">%1$d</xliff:g> seconds.</string>
+    <string name="bluetooth_ask_enablement_and_discovery" product="default">"Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für <xliff:g id="timeout">%1$d</xliff:g> Sekunden für andere Geräte sichtbar zu machen."</string>
 
     <!-- Strings for asking to the user whether to allow an app to enable bluetooth and discovery mode -->
-    <string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">An app wants to turn on Bluetooth and make your tablet visible to other devices. You can change this later in Bluetooth settings.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">An app wants to turn on Bluetooth and make your phone visible to other devices. You can change this later in Bluetooth settings.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery" product="tablet">"Eine App versucht, Bluetooth zu aktivieren und Ihr Tablet für andere Geräte sichtbar zu machen. Sie können diese Einstellung später in den Bluetooth-Einstellungen ändern."</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery" product="default">"Eine App versucht, Bluetooth zu aktivieren und Ihr Telefon für andere Geräte sichtbar zu machen. Sie können diese Einstellung später in den Bluetooth-Einstellungen ändern."</string>
 
     <!-- Strings for msg to display to user while bluetooth is turning on [CHAR LIMIT=60] -->
-    <string name="bluetooth_turning_on">"Turning Bluetooth on\u2026"</string>
+    <string name="bluetooth_turning_on">"Bluetooth wird aktiviert..."</string>
 
     <!-- Strings for msg to display to user while bluetooth is turning off [CHAR LIMIT=60] -->
-    <string name="bluetooth_turning_off">"Turning Bluetooth off\u2026"</string>
+    <string name="bluetooth_turning_off">"Bluetooth wird deaktiviert..."</string>
 
     <!-- Strings for device profile auto connect setting -->
-    <string name="bluetooth_auto_connect">Auto-connect</string>
+    <string name="bluetooth_auto_connect">"Automatische Verbindung"</string>
 
     <!-- Activity label of BluetoothPermissionActivity [CHAR LIMIT=none]-->
-    <string name="bluetooth_connection_permission_request">"Bluetooth connection request"</string>
+    <string name="bluetooth_connection_permission_request">"Bluetooth-Verbindungsanfrage"</string>
 
     <!-- Notification message when a remote Bluetooth device wants to connect to a Bluetooth profile [CHAR LIMIT=none]-->
-    <string name="bluetooth_connection_notif_message">"Touch to connect to \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
+    <string name="bluetooth_connection_notif_message">"Zum Herstellen einer Verbindung mit \"<xliff:g id="device_name">%1$s</xliff:g>\u0022."</string>
 
     <!-- Bluetooth connection permission Alert Activity text [CHAR LIMIT=none]-->
-    <string name="bluetooth_connection_dialog_text">"Do you want to connect to \u0022<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
+    <string name="bluetooth_connection_dialog_text">"Möchten Sie eine Verbindung mit \"<xliff:g id="device_name">%1$s</xliff:g>\u0022?"</string>
 
     <!-- Activity label of BluetoothPbPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-    <string name="bluetooth_phonebook_request">"Phone book request"</string>
+    <string name="bluetooth_phonebook_request">"Telefonbuchanfrage"</string>
 
     <!-- Bluetooth phone book permission Alert Activity text [CHAR LIMIT=none] -->
-    <string name="bluetooth_pb_acceptance_dialog_text">%1$s wants to access your contacts and call history. Give access to %2$s?</string>
+    <string name="bluetooth_pb_acceptance_dialog_text">"%1$s möchte auf Ihre Kontakte und Ihre Anrufliste zugreifen. Möchten Sie %2$s den Zugriff erlauben?"</string>
 
     <!-- Bluetooth phone book permission Alert Activity checkbox text [CHAR LIMIT=none] -->
-    <string name="bluetooth_pb_remember_choice">Don\'t ask again</string>
+    <string name="bluetooth_pb_remember_choice">Nicht mehr fragen</string>
 
     <!-- Activity label of BluetoothMasPermissionActivity, also used as Strings in the permission dialog [CHAR LIMIT=none] -->
-    <string name="bluetooth_mas_request">"Message Access request"</string>
+    <string name="bluetooth_mas_request">"Nicht mehr fragen"</string>
 
     <!-- Bluetooth MAS permission Alert Activity text [CHAR LIMIT=none] -->
     <string name="bluetooth_mas_acceptance_dialog_text">%1$s would like to access your messages. Give access to %2$s?</string>
@@ -367,23 +367,23 @@
     <!-- Date & time settings screen title -->
     <string name="date_and_time">Date &amp; time settings</string>
     <!-- The title of the activity to pick a time zone. -->
-    <string name="choose_timezone">Choose time zone</string>
+    <string name="choose_timezone">"Zeitzone wählen"</string>
     <!-- Do not translate. Used as the value for a setting. -->
     <string name="default_date_format"><xliff:g id="default_date_format">MM/dd/yyyy</xliff:g></string>
 
     <!-- The option in the date-format picker for using the normal format
          called for by the user's locale. -->
-    <string name="normal_date_format">Regional (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)</string>
+    <string name="normal_date_format">"Lokal (<xliff:g id="date" example="12-31-2009">%s</xliff:g>)</string>
 
     <!-- Label of preview text when tweaking font size -->
-    <string name="display_preview_label">Preview:</string>
+    <string name="display_preview_label">"Vorschau:"</string>
     <!-- Label for chosen font size -->
-    <string name="display_font_size_label">Font size:</string>
+    <string name="display_font_size_label">"Schriftgröße:"</string>
 
     <!-- Used for diagnostic screens, precise translation is not necessary -->
     <string name="intent_sender_data_label"><xliff:g id="data">Data:</xliff:g></string>
     <!-- Used for diagnostic screens, precise translation is not necessary -->
-    <string name="intent_sender_sendbroadcast_text">Send <xliff:g id="broadcast">broadcast</xliff:g></string>
+    <string name="intent_sender_sendbroadcast_text">"<xliff:g id="broadcast">broadcast</xliff:g></string>
     <!-- Used for diagnostic screens, precise translation is not necessary -->
     <string name="intent_sender_action_label"><xliff:g id="action">Action</xliff:g>:</string>
     <!-- Used for diagnostic screens, precise translation is not necessary -->
@@ -391,122 +391,122 @@
     <!-- Used for diagnostic screens, precise translation is not necessary -->
     <string name="intent_sender_resource_label"><xliff:g id="resource">Resource</xliff:g>: </string>
     <!-- Used for diagnostic screens, precise translation is not necessary -->
-    <string name="intent_sender_account_label">Account: </string>
+    <string name="intent_sender_account_label">"Konto:"</string>
 
     <!-- HTTP proxy settings title -->
-    <string name="proxy_settings_title">Proxy settings</string>
+    <string name="proxy_settings_title">"Proxy-Einstellungen"</string>
     <!-- HTTP proxy settings. Button to clear the proxy box. -->
-    <string name="proxy_clear_text">Clear</string>
+    <string name="proxy_clear_text">"Löschen"</string>
     <!-- HTTP proxy settings. The port number label. -->
-    <string name="proxy_port_label">Proxy port</string>
+    <string name="proxy_port_label">Proxy-Port</string>
     <!-- HTTP proxy settings. The hint text field for port. -->
     <string name="proxy_port_hint" translatable="false">8080</string>
     <!-- HTTP proxy settings. The exclusion list label. -->
-    <string name="proxy_exclusionlist_label">Bypass proxy for</string>
+    <string name="proxy_exclusionlist_label">"Umgehung des Proxys für"</string>
     <!-- HTTP proxy settings. The hint text for proxy exclusion list. [CHAR LIMIT=50]-->
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_exclusionlist_hint">"example.com,mycomp.test.com,localhost"</string>
     <!-- HTTP proxy settings. The button to restore the defaults. -->
-    <string name="proxy_defaultView_text">Restore defaults</string>
+    <string name="proxy_defaultView_text">"Standard wiederherstellen"</string>
     <!-- HTTP proxy settings. The button to save. -->
-    <string name="proxy_action_text">Done</string>
+    <string name="proxy_action_text">"Fertig"</string>
     <!-- HTTP proxy settings. The text field for the hostname -->
-    <string name="proxy_hostname_label">Proxy hostname</string>
+    <string name="proxy_hostname_label">"Proxy-Hostname"</string>
     <!-- HTTP proxy settings. The hint text field for the hostname. [CHAR LIMIT=50] -->
-    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_hostname_hint">"proxy.example.com"</string>
     <!-- HTTP proxy settings. Title if there is an error-->
-    <string name="proxy_error">Attention</string>
+    <string name="proxy_error">"Achtung"</string>
     <!-- HTTP proxy settings. Button to get rid of error box-->
-    <string name="proxy_error_dismiss">OK</string>
+    <string name="proxy_error_dismiss">"OK"</string>
     <!-- HTTP proxy settings. The error if the hostname is not valid -->
-    <string name="proxy_error_invalid_host">The hostname you typed isn\'t valid.</string>
+    <string name="proxy_error_invalid_host">"Der eingegebene Hostname ist ungültig."</string>
     <!-- HTTP proxy settings. The error if the exclusion list is not valid -->
-    <string name="proxy_error_invalid_exclusion_list">The exclusion list you typed isn\'t properly formatted. Type a comma-separated list of excluded domains.</string>
+    <string name="proxy_error_invalid_exclusion_list">"Die von Ihnen eingegebene Ausschlussliste ist nicht richtig formatiert. Bitte geben Sie eine durch Kommas getrennte Liste ausgeschlossener Domains ein."</string>
     <!-- HTTP proxy settings. Error msg -->
-    <string name="proxy_error_empty_port">You need to complete the port field.</string>
+    <string name="proxy_error_empty_port">"Sie müssen das Feld für den Port ausfüllen."</string>
     <!-- HTTP proxy settings. Error msg -->
-    <string name="proxy_error_empty_host_set_port">The port field must be empty if the host field is empty.</string>
+    <string name="proxy_error_empty_host_set_port">"Das Feld für den Port muss leer sein, wenn das Feld für den Host leer ist."</string>
     <!-- HTTP proxy settings. Error msg -->
-    <string name="proxy_error_invalid_port">The port you typed isn\'t valid.</string>
+    <string name="proxy_error_invalid_port">"Der eingegebene Port ist ungültig."</string>
     <!-- HTTP proxy settings. Warning message about limited application support [CHAR LIMIT=100]-->
-    <string name="proxy_warning_limited_support">The HTTP proxy is used by the browser but may not be used by the other apps.</string>
+    <string name="proxy_warning_limited_support">"Der HTTP-Proxy wird vom Browser verwendet, möglicherweise aber nicht von anderen Apps."</string>
 
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_signal_location_label">Location:</string>
+    <string name="radio_info_signal_location_label">"Standort:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_neighboring_location_label">Neighboring CID:</string>
+    <string name="radio_info_neighboring_location_label">"Benachbarte CID:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_cellinfo_label">CellInfo:</string>
+    <string name="radio_info_cellinfo_label">"Netz-Info:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_data_attempts_label">Data attempts:</string>
+    <string name="radio_info_data_attempts_label">"Datenversuche:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
 
-    <string name="radio_info_gprs_service_label">GPRS service:</string>
+    <string name="radio_info_gprs_service_label">"GPRS-Service:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_roaming_label">Roaming:</string>
+    <string name="radio_info_roaming_label">"Roaming:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_imei_label">IMEI:</string>
+    <string name="radio_info_imei_label">"IMEI:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_call_redirect_label">Call redirect:</string>
+    <string name="radio_info_call_redirect_label">"Rufumleitung:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_ppp_resets_label">Number of PPP reset since boot:</string>
+    <string name="radio_info_ppp_resets_label">"Anzahl der PPP-Zurücksetzungen seit dem Start:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_gsm_disconnects_label">GSM disconnects:</string>
+    <string name="radio_info_gsm_disconnects_label">"GSM-Trennungen:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_current_network_label">Current network:</string>
+    <string name="radio_info_current_network_label">"Aktuelles Netzwerk:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_data_successes_label">Data successes:</string>
+    <string name="radio_info_data_successes_label">"Datenerfolge:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_ppp_received_label">PPP received:</string>
+    <string name="radio_info_ppp_received_label">"PPP empfangen:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_gsm_service_label">GSM service:</string>
+    <string name="radio_info_gsm_service_label">"GSM-Service"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_signal_strength_label">Signal strength:</string>
+    <string name="radio_info_signal_strength_label">"Signalstärke:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_call_status_label">Call status:</string>
+    <string name="radio_info_call_status_label">"Rufstatus:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_ppp_sent_label">PPP sent:</string>
+    <string name="radio_info_ppp_sent_label">"PPP gesendet:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_radio_resets_label">Radio resets:</string>
+    <string name="radio_info_radio_resets_label">"Verbindungszurücksetzung"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_message_waiting_label">Message waiting:</string>
+    <string name="radio_info_message_waiting_label">"Nachricht liegt vor:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_phone_number_label">Phone number:</string>
+    <string name="radio_info_phone_number_label">"Telefonnummer:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_band_mode_label">Select radio band</string>
+    <string name="radio_info_band_mode_label">"Frequenzbereich auswählen"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_network_type_label">Network type:</string>
+    <string name="radio_info_network_type_label">"Netzwerktyp:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_set_perferred_label">Set preferred network type:</string>
+    <string name="radio_info_set_perferred_label">"Bevorzugten Netzwerktyp festlegen:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+    <string name="radio_info_ping_ipaddr">"IP-Adresse pingen:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_ping_hostname">Ping Hostname(www.google.com):</string>
+    <string name="radio_info_ping_hostname">"Hostnamen pingen (www.google.com):"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_http_client_test">HTTP Client test:</string>
+    <string name="radio_info_http_client_test">"HTTP-Client-Test:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="ping_test_label">Run ping test</string>
+    <string name="ping_test_label">"Pingtest ausführen"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_smsc_label">SMSC:</string>
+    <string name="radio_info_smsc_label">"SMSC:"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_smsc_update_label">Update</string>
+    <string name="radio_info_smsc_update_label">"Aktualisierung"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_smsc_refresh_label">Refresh</string>
+    <string name="radio_info_smsc_refresh_label">"Aktualisieren"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
+    <string name="radio_info_toggle_dns_check_label">"DNS-Überprüfung ein-/ausschalten"</string>
     <!-- Radio Info screen. Label for a status item.  Used for diagnostic info screens, precise translation isn't needed -->
-    <string name="oem_radio_info_label">OEM-specific Info/Settings</string>
+    <string name="oem_radio_info_label">"OEM-spezifische Infos/Einstellungen"</string>
 
     <!-- Band Mode Selection -->
     <!-- Band mode screen.  Title of activity. -->
-    <string name="band_mode_title">Set GSM/UMTS band</string>
+    <string name="band_mode_title">"GSM-/UMTS-Band festlegen"</string>
     <!-- Band mode screen.  Loading message. -->
-    <string name="band_mode_loading">Loading band list\u2026</string>
+    <string name="band_mode_loading">"Bandliste wird geladen..."</string>
     <!-- Band mode screen. Button caption to set the bandmode. -->
-    <string name="band_mode_set">Set</string>
+    <string name="band_mode_set">"Festlegen"</string>
     <!-- Band mode screen. Status message when unsuccessful. -->
-    <string name="band_mode_failed">Unsuccessful</string>
+    <string name="band_mode_failed">"Fehlgeschlagen"</string>
     <!-- Band mode screen. Status message when successful. -->
-    <string name="band_mode_succeeded">Successful</string>
+    <string name="band_mode_succeeded">"Erfolgreich"</string>
 
     <!-- Instructions after the user changes the mass storage settings -->
     <string name="sdcard_changes_instructions">Changes take effect when USB cable is reconnected.</string>
@@ -4075,7 +4075,7 @@
     <string name="show_cpu_usage_summary">Screen overlay showing current CPU usage</string>
 
     <!-- UI debug setting: force hardware acceleration to render apps [CHAR LIMIT=25] -->
-    <string name="force_hw_ui">Force GPU rendering</string>
+    <string name="force_hw_ui">"GPU-Rendering erzwingen"</string>
     <!-- UI debug setting: force hardware acceleration summary [CHAR LIMIT=50] -->
     <string name="force_hw_ui_summary">Force use of GPU for 2D drawing</string>
 
