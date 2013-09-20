@@ -3212,37 +3212,37 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
 
     <string name="statusbar_short_summary">Uhrzeit, Akkustand, Signalstärke, etc.</string>
 	
-	<!-- ListView-Animationen -->
-	<string name="listview_animation_title">ListView-Animation</string>
-	<string name="listview_animation_summary">Einfache ListView-Animation während des Scrollens</string>
+    <!-- ListView-Animationen -->
+    <string name="listview_animation_title">ListView-Animation</string>
+    <string name="listview_animation_summary">Einfache ListView-Animation während des Scrollens</string>
 	
-	<!-- Hardware-Tasten -->
-	<string name="hardware_keys_title">Hardware-Tasten</string>
-	<string name="hardware_keys_bindings_title">Tastenfunktionen</string>
-	<string name="hardware_keys_enable_custom_title">Eigene Funktionen aktivieren</string>
-	<string name="hardware_keys_home_long_press_title">Home-Taste (berühren &amp; halten)</string>
-	<string name="hardware_keys_menu_press_title">Menü-Taste</string>
-	<string name="hardware_keys_menu_long_press_title">Menü-Taste (berühren &amp; halten)</string>
-	<string name="hardware_keys_assist_press_title">Suchen-Taste</string>
-	<string name="hardware_keys_assist_long_press_title">Suchen-Taste (berühren &amp; halten)</string>
-	<string name="hardware_keys_app_switch_press_title">Multitasking-Taste</string>
-	<string name="hardware_keys_app_switch_long_press_title">Mutlitasking-Taste (berühren &amp; halten)</string>
-	<string name="hardware_keys_show_overflow_title">Menü-Schaltfläche anzeigen</string>
-	<string name="hardware_keys_show_overflow_summary">Zusätzlich zur Menü-Taste in Apps eine Menü-Schaltfläche anzeigen</string>
-	<string name="hardware_keys_show_overflow_toast_enable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App sichtbar</string>
-	<string name="hardware_keys_show_overflow_toast_disable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App unsichtbar</string>
-	<string name="hardware_keys_action_nothing">Keine Funktion</string>
-	<string name="hardware_keys_action_menu">Menü öffnen/schließen</string>
-	<string name="hardware_keys_action_app_switch">Letzte Apps</string>
-	<string name="hardware_keys_action_search">Suchassistent</string>
-	<string name="hardware_keys_action_voice_search">Sprachsuche</string>
-	<string name="hardware_keys_action_in_app_search">In-App-Suche</string>
-	<string name="additional_options_title">Zusätzliche Optionen</string>
-	
-	<string name="home_wake_title">Aufwecken mit Home-Taste</string>
-	<string name="home_wake_summary">Drücken der Home-Taste aktiviert den Bildschirm</string>
-	
-	<!-- Aktiver Bildschirm -->
+    <!-- Hardware-Tasten -->
+    <string name="hardware_keys_title">Hardware-Tasten</string>
+    <string name="hardware_keys_bindings_title">Tastenfunktionen</string>
+    <string name="hardware_keys_enable_custom_title">Eigene Funktionen aktivieren</string>
+    <string name="hardware_keys_home_long_press_title">Home-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_menu_press_title">Menü-Taste</string>
+    <string name="hardware_keys_menu_long_press_title">Menü-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_assist_press_title">Suchen-Taste</string>
+    <string name="hardware_keys_assist_long_press_title">Suchen-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_app_switch_press_title">Multitasking-Taste</string>
+    <string name="hardware_keys_app_switch_long_press_title">Mutlitasking-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_show_overflow_title">Menü-Schaltfläche anzeigen</string>
+    <string name="hardware_keys_show_overflow_summary">Zusätzlich zur Menü-Taste in Apps eine Menü-Schaltfläche anzeigen</string>
+    <string name="hardware_keys_show_overflow_toast_enable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App sichtbar</string>
+    <string name="hardware_keys_show_overflow_toast_disable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App unsichtbar</string>
+    <string name="hardware_keys_action_nothing">Keine Funktion</string>
+    <string name="hardware_keys_action_menu">Menü öffnen/schließen</string>
+    <string name="hardware_keys_action_app_switch">Letzte Apps</string>
+    <string name="hardware_keys_action_search">Suchassistent</string>
+    <string name="hardware_keys_action_voice_search">Sprachsuche</string>
+    <string name="hardware_keys_action_in_app_search">In-App-Suche</string>
+    <string name="additional_options_title">Zusätzliche Optionen</string>
+
+    <string name="home_wake_title">Aufwecken mit Home-Taste</string>
+    <string name="home_wake_summary">Drücken der Home-Taste aktiviert den Bildschirm</string>
+
+    <!-- Aktiver Bildschirm -->
     <string name="ad_settings_title">Display-aktivierende Benachrichtigungen</string>
     <string name="ad_settings_summary">Einstellungen der Display-aktivierenden Benachrichtigungen, die das schlafende und gesperrte Gerät aufwecken und eingehende Benachrichtgungen anzeigen (MotoX-Benachrichtigungen), ändern</string>
     <string name="ad_enable_title">Aktivieren</string>
