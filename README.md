@@ -1,4 +1,4 @@
 VanirAOSP-German
 ================
 
-German localization for VanirAOSP ROM
+German localization of VanirAOSP ROM / platform_packages_apps_Settings
