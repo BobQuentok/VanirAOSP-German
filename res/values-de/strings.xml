@@ -3212,10 +3212,11 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
 
 	<string name="statusbar_short_summary">Uhrzeit, Akkustand, Signalstärke, etc.</string>
 	
-	<!-- ListView-Animationen -->
-	<string name="listview_animation_title">ListView-Animation</string>
-	<string name="listview_animation_summary">Einfache ListView-Animation während des Scrollens</string>
+    <!-- ListView-Animationen -->
+    <string name="listview_animation_title">ListView-Animation</string>
+    <string name="listview_animation_summary">Einfache ListView-Animation während des Scrollens</string>
 	
+<<<<<<< HEAD
 	<!-- Hardware-Tasten -->
 	<string name="hardware_keys_title">Hardware-Tasten</string>
 	<string name="hardware_keys_bindings_title">Tastenfunktionen</string>
@@ -3284,4 +3285,56 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
 	<!-- Vanir-Updater -->
 	<string name="vanirupdate_settings_title">Vanir-Aktualisierungen</string>
 	<string name="vanirupdate_settings_summary">Nach verfügbaren Aktiualisieren prüfen, verfügbare Aktualisierungen ansehen und installieren</string>
+=======
+    <!-- Hardware-Tasten -->
+    <string name="hardware_keys_title">Hardware-Tasten</string>
+    <string name="hardware_keys_bindings_title">Tastenfunktionen</string>
+    <string name="hardware_keys_enable_custom_title">Eigene Funktionen aktivieren</string>
+    <string name="hardware_keys_home_long_press_title">Home-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_menu_press_title">Menü-Taste</string>
+    <string name="hardware_keys_menu_long_press_title">Menü-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_assist_press_title">Suchen-Taste</string>
+    <string name="hardware_keys_assist_long_press_title">Suchen-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_app_switch_press_title">Multitasking-Taste</string>
+    <string name="hardware_keys_app_switch_long_press_title">Mutlitasking-Taste (berühren &amp; halten)</string>
+    <string name="hardware_keys_show_overflow_title">Menü-Schaltfläche anzeigen</string>
+    <string name="hardware_keys_show_overflow_summary">Zusätzlich zur Menü-Taste in Apps eine Menü-Schaltfläche anzeigen</string>
+    <string name="hardware_keys_show_overflow_toast_enable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App sichtbar</string>
+    <string name="hardware_keys_show_overflow_toast_disable">Die Menü-Schaltfläche wird vermutlich erst nach einem Neustart der App unsichtbar</string>
+    <string name="hardware_keys_action_nothing">Keine Funktion</string>
+    <string name="hardware_keys_action_menu">Menü öffnen/schließen</string>
+    <string name="hardware_keys_action_app_switch">Letzte Apps</string>
+    <string name="hardware_keys_action_search">Suchassistent</string>
+    <string name="hardware_keys_action_voice_search">Sprachsuche</string>
+    <string name="hardware_keys_action_in_app_search">In-App-Suche</string>
+    <string name="additional_options_title">Zusätzliche Optionen</string>
+
+    <string name="home_wake_title">Aufwecken mit Home-Taste</string>
+    <string name="home_wake_summary">Drücken der Home-Taste aktiviert den Bildschirm</string>
+
+    <!-- Aktiver Bildschirm -->
+    <string name="ad_settings_title">Display-aktivierende Benachrichtigungen</string>
+    <string name="ad_settings_summary">Einstellungen der Display-aktivierenden Benachrichtigungen, die das schlafende und gesperrte Gerät aufwecken und eingehende Benachrichtgungen anzeigen (MotoX-Benachrichtigungen), ändern</string>
+    <string name="ad_enable_title">Aktivieren</string>
+    <string name="ad_enable_summary_on">Benachrichtigungen aktivieren das Display</string>
+    <string name="ad_enable_summary_off">Benachrichtigungen aktivieren das Display nicht</string>
+    <string name="ad_text_title">Benachrichtigungstext</string>
+    <string name="ad_text_summary">Benachrichtigungstext um den Ring herum anzeigen.</string>
+    <string name="ad_all_notifications_title">Alle Benachrichtigungen</string>
+    <string name="ad_all_notifications_summary">Alle Benachrichtigungen anzeigen (inklusive anhaltende sowie aus der Benachrichtigungsanzeige nicht löschbare Benachrichtigungen).</string>
+    <string name="ad_pocket_mode_title">Taschenmodus</string>
+    <string name="ad_pocket_mode_summary">Display aktivieren und Benachrichtigungen anzeigen, wenn das Gerät aus der Tasche genommen wird.</string>
+    <string name="ad_redisplay_title">Benachrichtigungen erneut anzeigen</string>
+    <string name="ad_brightness_title">Benachrichtigungshelligkeit</string>
+    <string name="ad_brightness_summary">Helligkeitsstufe während dem Anzeigen der Benachrichtigungen, falls die automatische Helligkeit deaktiviert ist.</string>
+    <string name="ad_redisplay_never">Nie</string>
+    <string name="ad_redisplay_1m">Nach 1 Minute</string>
+    <string name="ad_redisplay_5m">Nach 5 Minuten</string>
+    <string name="ad_redisplay_15m">Nach 15 Minuten</string>
+    <string name="ad_redisplay_30m">Nach 30 Minuten</string>
+    <string name="ad_redisplay_1h">Nach 1 Stunde</string>
+    <string name="ad_redisplay_2h">Nach 2 Stunden</string>
+    <string name="ad_redisplay_5h">Nach 5 Stunden</string>
+
+>>>>>>> 7afc8c34413cee14e14c0d7d7c5c1ad5fb7ed223
 </resources>
