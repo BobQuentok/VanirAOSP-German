@@ -361,8 +361,6 @@
 	<string name="profile_info_settings_title">"Profilinformationen"</string>
 	<string name="location_settings_title">"Standortzugriff"</string>
 	<string name="security_settings_title">Sicherheit</string>
-	<string name="appops_settings_title">App-Vorgänge</string>
-	<string name="appops_settings_summary">App-Vorgänge: App-Berechtigungsverwaltung, die Berechtigungen für individuelle Apps steuert</string>
 	<string name="security_settings_summary">"Meinen Standort, Display-Entsperrung, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen"</string>
 	<string name="cdma_security_settings_summary">"Meinen Standort, Display-Entsperrung, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen"</string>
 	<string name="security_passwords_title">"Passwörter"</string>
@@ -3271,8 +3269,6 @@ Mittels \"Entfernen\" kann die ausgewählte Stützstelle aus dem Helligkeitsverl
 	<string name="ad_show_date_summary">Datum über der Uhrzeit anzeigen</string>
 	<string name="ad_show_ampm_title">AP/PM nazeigen</string>
 	<string name="ad_show_ampm_summary">Bei 12-Stunden-Format Tageszeit neben der Uhrzeit anzeigen</string>
-	<string name="ad_sunlight_mode_title">Tageslicht-Modus</string>
-	<string name="ad_sunlight_mode_summary">Farben in Gegenden mit hellem Licht oder direkter Sonneneinstrahlung umkehren.</string>
 	
 	<!-- Changelog -->
 	<string name="changelog_title">Changelog ansehen</string>
